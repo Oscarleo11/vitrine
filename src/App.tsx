@@ -195,8 +195,8 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-2">
-              {/* <img className="w-6 h-6" src="https://github.com/Oscarleo11/Amos-style/blob/main/13-removebg-preview.png?raw=true" alt="" /> */}
-              <img className="w-12 h-12" src="./img/3.png" alt="" />
+              <img className="w-6 h-6" src="https://github.com/Oscarleo11/Amos-style/blob/main/3.png?raw=true" alt="" />
+              {/* <img className="w-12 h-12" src="./img/3.png" alt="" /> */}
               {/* <Scissors className="w-6 h-6" />
               <span className="text-xl font-bold">Élégance Couture</span> */}
             </div>
